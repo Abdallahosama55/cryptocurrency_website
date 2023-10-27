@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cryptocurrency_website/static/css/main.14ef52ce.css",
+    "main.js": "/cryptocurrency_website/static/js/main.3f8a3c18.js",
+    "static/js/787.1786eafb.chunk.js": "/cryptocurrency_website/static/js/787.1786eafb.chunk.js",
+    "static/media/10 (2).png": "/cryptocurrency_website/static/media/10 (2).ee40547691ce925b63a0.png",
+    "static/media/4.png": "/cryptocurrency_website/static/media/4.c6bcc4bf50d48efd6664.png",
+    "static/media/p0.png": "/cryptocurrency_website/static/media/p0.69833add8ab2662dd625.png",
+    "static/media/1602-01.webp": "/cryptocurrency_website/static/media/1602-01.f10e58f6d3fb0ef9b5a9.webp",
+    "static/media/slick.svg": "/cryptocurrency_website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/cryptocurrency_website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/cryptocurrency_website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/cryptocurrency_website/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/cryptocurrency_website/index.html",
+    "main.14ef52ce.css.map": "/cryptocurrency_website/static/css/main.14ef52ce.css.map",
+    "main.3f8a3c18.js.map": "/cryptocurrency_website/static/js/main.3f8a3c18.js.map",
+    "787.1786eafb.chunk.js.map": "/cryptocurrency_website/static/js/787.1786eafb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14ef52ce.css",
+    "static/js/main.3f8a3c18.js"
+  ]
+}
